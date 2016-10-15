@@ -1,4 +1,4 @@
-FROM MichaelMai2000/ssr-docker
+FROM michaelmai2000/rdfz-ssr-docker
 
 ENV KCP_VER 20161009
 

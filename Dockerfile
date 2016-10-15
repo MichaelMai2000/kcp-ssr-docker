@@ -1,4 +1,4 @@
-FROM cbwang/ssr-docker
+FROM MichaelMai2000/ssr-docker
 
 ENV KCP_VER 20161009
 
